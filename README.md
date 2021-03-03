@@ -14,4 +14,5 @@
 -  MsyQL
 -  HTML | CSS | JavaScript | Bootstrap | JQuery
 -  PHP
+-  Visual Studio Code | Sublime text 3 | Docker | IntelliJ
 
