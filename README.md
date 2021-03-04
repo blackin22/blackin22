@@ -16,7 +16,7 @@
 -  NodeJS | Express
 -  MySQL
 -  HTML | CSS | JavaScript | Bootstrap | JQuery
--  PHP
+-  PHP | Ajax
 -  Visual Studio Code | Sublime Text 3 | Docker | IntelliJ
 
 ### Linguagens:
